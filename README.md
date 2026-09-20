@@ -1,4 +1,4 @@
-## Hi there. I code stuff 👋
+## Hi there 👋
 
 <!--
 **emyeatGrass/emyeatGrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
