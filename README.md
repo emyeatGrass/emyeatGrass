@@ -1,4 +1,19 @@
-## Hi there 👋
+## Hi there
+
+I'm a software engineering student at Concordia University.
+
+**Experience:**
+- Software developer at Genetec (Jan 2026 - Aug 2026)
+
+**Competitions:**
+- ENGWEEK 2024 (1st place)
+- @Hack 2025 (11th place)
+- ENGCOMM X 2025
+- ConUHacks X 2025
+- @Hack 2026
+- MPC Hacks 2026
+- ENGCOMM X 2026
+
 
 <!--
 **emyeatGrass/emyeatGrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
