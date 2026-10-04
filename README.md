@@ -1,4 +1,4 @@
-
+## Hi, 
 I'm a third year software engineering student at Concordia University.
 
 I'm currently working on a horror visual novel game.
