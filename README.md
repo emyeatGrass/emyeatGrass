@@ -16,7 +16,7 @@ I like to draw, write, and program (another art medium)
 - ConUHacks X 2025
 - @Hack 2026
 - MPC Hacks 2026
-- ENGCOMM X 2026
+- ENGCOMM X 2026 (Round 1 & 2)
 
 
 <!--
