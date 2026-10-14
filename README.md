@@ -3,8 +3,6 @@ I'm a third year software engineering student at Concordia University.
 
 I'm currently working on a horror visual novel game.
 
-I like to draw, write, and program (another art medium)
-
 ---
 **Experience:**
 - Software developer at Genetec (Jan 2026 - Aug 2026)
